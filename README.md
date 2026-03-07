@@ -6,7 +6,7 @@ My strengths include **machine learning model development, feature engineering, 
 
 I'm excited to apply these skills in internship and early-career roles while continuing to grow in AI-focused environments.
 
-💼 [LinkedIn](https://linkedin.com/in/kanishkayadvv) | 📧 [Email](mailto:11kanishkay@gmail.com) | 📸 [Instagram](https://instagram.com/kanishkay_)
+💼 [LinkedIn](https://linkedin.com/in/kanishkayadvv) | 📧 [Email](mailto:11kanishkay@gmail.com) | 📸 [Instagram](https://instagram.com/kanishkay_) | 🌐 [GitHub](https://github.com/kanishkay)
 
 ---
 
@@ -70,11 +70,6 @@ Developed an end-to-end ML pipeline to predict home prices across 50K+ propertie
 ---
 
 ## 🤝 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/kanishkayadvv)
-- 📧 [11kanishkay@gmail.com](mailto:11kanishkay@gmail.com)
-- 📸 [Instagram](https://instagram.com/kanishkay_)
-- 🌐 [GitHub](https://github.com/kanishkay)
 
 Always open to discussing projects, opportunities, or collaborating on interesting problems!
 
