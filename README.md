@@ -71,8 +71,6 @@ Developed an end-to-end ML pipeline to predict home prices across 50K+ propertie
 
 ## 🤝 Let's Connect!
 
-I'm currently seeking **Summer 2026 internship opportunities** in Machine Learning Engineering and Data Science.
-
 - 💼 [LinkedIn](https://linkedin.com/in/kanishkayadvv)
 - 📧 [11kanishkay@gmail.com](mailto:11kanishkay@gmail.com)
 - 📸 [Instagram](https://instagram.com/kanishkay_)
