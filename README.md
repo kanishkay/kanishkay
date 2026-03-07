@@ -6,7 +6,7 @@ My strengths include **machine learning model development, feature engineering, 
 
 I'm excited to apply these skills in internship and early-career roles while continuing to grow in AI-focused environments.
 
-💼 [LinkedIn](https://linkedin.com/in/kanishkayadvv) | 📧 [Email](mailto:11kanishkay@gmail.com) | 📸 [Instagram](https://instagram.com/kanishkay_) | 🌐 [GitHub](https://github.com/kanishkay)
+💼 [LinkedIn](https://linkedin.com/in/kanishkayadvv) | 📧 [Email](mailto:11kanishkay@gmail.com) | 📸 [Instagram](https://instagram.com/kanishkay_) 
 
 ---
 
