@@ -57,15 +57,15 @@ Built an NLP classification pipeline to detect spam in YouTube comments, discove
 
 ---
 
-### 🏠 [Redfin Housing Market Predictor](https://github.com/kanishkay/Redfin_Housing_Market_Predictor)
+### 💼 [Knowledge Track Application (Java)](https://github.com/kanishkay/Knowledge_Track_Application)
 
-Developed an end-to-end ML pipeline to predict home prices across 50K+ properties, identifying that property quality rating is the strongest driver of price variance—validating intuitions about renovation ROI.
+Architected a full-featured JavaFX academic management system for faculty to track student profiles and interactions, optimizing search algorithms to achieve 80% faster retrieval times.
 
-- Engineered temporal and quality-based features (HouseAge, QualityScore, TotalSF)
-- Compared Linear Regression and Random Forest models with hyperparameter optimization
-- Performed comprehensive EDA revealing key relationships between property characteristics and pricing
+- Built MVC architecture with 5 controller classes separating business logic for maintainability
+- Implemented CSV-based persistence achieving 100% data integrity across 1,000+ operations
+- Designed event-driven UI with advanced filtering capabilities streamlining advising workflows
 
-**Tech:** Python, Random Forest, Scikit-Learn, Pandas
+**Tech:** Java, JavaFX, Maven, MVC
 
 ---
 
