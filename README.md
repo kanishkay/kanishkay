@@ -158,7 +158,6 @@ Co-developing an AI-powered platform that helps clinical coordinators match pati
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,vscode" />
 </p>
 
-**Jupyter Notebook**
 
 ---
 
