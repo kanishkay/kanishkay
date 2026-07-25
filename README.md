@@ -118,23 +118,47 @@ Co-developing an AI-powered platform that helps clinical coordinators match pati
 
 ### Languages
 
-Python • Java • C++ • SQL • R • HTML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,html" />
+</p>
 
-### AI & Machine Learning
+**SQL**
 
-TensorFlow • PyTorch • Scikit-Learn • SentenceTransformers • NLTK • IBM watsonx.ai
+---
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+**Scikit-Learn • SentenceTransformers • NLTK • IBM watsonx.ai**
+
+---
 
 ### Data Science
 
-Pandas • NumPy • Matplotlib • Seaborn
+**Pandas • NumPy • Matplotlib • Seaborn**
+
+---
 
 ### Backend & Databases
 
-Flask • REST APIs • SQLite • PostgreSQL • MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite" />
+</p>
+
+**REST APIs**
+
+---
 
 ### DevOps & Tools
 
-Git • GitHub • Docker • Kubernetes • Ansible • Jupyter Notebook
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,vscode" />
+</p>
+
+**Jupyter Notebook**
 
 ---
 
@@ -145,8 +169,6 @@ Git • GitHub • Docker • Kubernetes • Ansible • Jupyter Notebook
 **Bachelor of Science in Data Science**
 
 📅 Expected Graduation: **May 2027**
-
-**GPA:** 3.72
 
 **Relevant Coursework**
 
