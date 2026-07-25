@@ -169,16 +169,6 @@ Co-developing an AI-powered platform that helps clinical coordinators match pati
 
 📅 Expected Graduation: **May 2027**
 
-**Relevant Coursework**
-
-- Artificial Intelligence
-- Data Structures & Algorithms
-- Database Management Systems
-- Computer Systems
-- Linear Algebra
-- Discrete Mathematics
-- Object-Oriented Programming
-
 ---
 
 # 🌟 Break Through Tech
@@ -240,13 +230,18 @@ I'm interested in opportunities involving:
 
 # 📈 GitHub Stats
 
-<!-- Replace with GitHub Readme Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkay&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkay&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kanishkay&theme=github-dark&hide_border=true" />
+</p>
 
-<!-- Top Languages -->
-
-<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkay&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
