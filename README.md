@@ -1,75 +1,243 @@
-# Hi, I'm Kanishka Yadav! 👋
+<div align="center">
 
-I'm a Data Science student at San José State University specializing in **AI and machine learning**. I have experience building end-to-end models that turn complex, real-world data into actionable insights.
+# Hi there 👋 I'm Kanishka Yadav
 
-My strengths include **machine learning model development, feature engineering, and data analysis** using Python, with working experience in SQL and Java. My projects span regression, classification, clustering, NLP, and deep learning—I enjoy exploring different ML approaches to solve diverse real-world problems.
+### Aspiring Machine Learning Engineer • AI Engineer • Data Scientist
 
-I'm excited to apply these skills in internship and early-career roles while continuing to grow in AI-focused environments.
+🎓 **B.S. in Data Science @ San José State University** (Expected May 2027)
 
-💼 [LinkedIn](https://linkedin.com/in/kanishkayadvv) | 📧 [Email](mailto:11kanishkay@gmail.com) | 📸 [Instagram](https://instagram.com/kanishkay_) 
+Building intelligent systems that combine Machine Learning, Generative AI, and Software Engineering to solve real-world problems.
 
----
+[💼 LinkedIn](https://linkedin.com/in/kanishkayadvv) •
+[📧 Email](mailto:11kanishkay@gmail.com) •
+[💻 GitHub](https://github.com/kanishkay)
+[📸 Instagram](https://instagram.com/kanishkay_)
 
-## 🛠️ Technical Skills
-
-**Languages:** Python, Java, C++, SQL  
-**ML/AI:** TensorFlow, Keras, Scikit-Learn, NLTK  
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
-**Tools:** Git/GitHub, Jupyter Notebook, MySQL, PostgreSQL
+</div>
 
 ---
 
-## 💻 Featured Projects
+# 👨🏻‍💻 About Me
 
-### 🧠 [Loan Default Prediction (Deep Learning)](https://github.com/kanishkay/Lending_Club_Loan_Default_Prediction)
+I'm a Data Science student at **San José State University** passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Data Engineering**.
 
-Built a 4-layer neural network to predict loan defaults on 395K+ LendingClub records, discovering that traditional FICO scores underperform for sub-prime borrowers—revealing limitations in conventional credit risk assessment.
+As a **Break Through Tech AI Fellow** through **Cornell Tech**, I've strengthened my technical and professional skills by building real-world AI applications while collaborating in team-based environments.
 
-- Designed neural network architecture (78→39→19→1) with dropout regularization and early stopping
-- Engineered 78 predictive features through correlation-based imputation, categorical encoding, and temporal extraction
-- Addressed severe class imbalance to achieve balanced precision-recall across default detection
+My experience spans:
 
-**Tech:** Python, TensorFlow, Keras, Scikit-Learn
+- 🤖 Deep Learning
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📊 Data Science & Analytics
+- 🗄 Database Systems
+- 🌐 AI-powered Web Applications
 
----
-
-### 💳 [Credit Card Customer Segmentation](https://github.com/kanishkay/Credit_Card_Customer_Segmentation_KMeans)
-
-Applied unsupervised learning to segment 8,950 credit card customers into distinct behavioral profiles, uncovering hidden patterns in spending and risk that weren't visible in the raw data.
-
-- Used PCA to reduce 17-dimensional feature space to 7 components while preserving 94% variance
-- Applied KMeans clustering to identify actionable customer segments for targeted strategies
-- Profiled segments revealing distinct behaviors in spending, cash advance usage, and payment patterns
-
-**Tech:** Python, KMeans, PCA, Scikit-Learn
+I'm currently building production-oriented AI systems while continuing to deepen my knowledge in Machine Learning Engineering, and scalable AI infrastructure.
 
 ---
 
-### 🛡️ [YouTube Spam Detection (NLP)](https://github.com/kanishkay/Youtube_Spam_Collection_NLP)
+# 🚀 Featured Projects
 
-Built an NLP classification pipeline to detect spam in YouTube comments, discovering that spam exhibits distinct linguistic patterns—shorter length and higher URL density—enabling automated content moderation.
+## [🧠 Acron — AI Repository Knowledge Base ⭐](https://github.com/kanishkay/acorn)
 
-- Implemented text preprocessing with custom stopword filtering and TF-IDF vectorization
-- Compared standalone vectorization vs scikit-learn pipeline approaches for production workflows
-- Analyzed spam patterns revealing temporal clustering in first 24 hours after video upload
+> Semantic code search powered by Retrieval-Augmented Generation (RAG)
 
-**Tech:** Python, NLP, TF-IDF, Naive Bayes, NLTK
+### Highlights
 
----
+- Built semantic code search using vector embeddings
+- Designed a hybrid retrieval pipeline with SQLite-Vec and SentenceTransformers
+- Integrated OpenRouter LLMs for explainable code responses
+- Developed a Flask backend with normalized relational storage
 
-### 💼 [Knowledge Track Application (Java)](https://github.com/kanishkay/Knowledge_Track_Application)
-
-Architected a full-featured JavaFX academic management system for faculty to track student profiles and interactions, optimizing search algorithms to achieve 80% faster retrieval times.
-
-- Built MVC architecture with 5 controller classes separating business logic for maintainability
-- Implemented CSV-based persistence achieving 100% data integrity across 1,000+ operations
-- Designed event-driven UI with advanced filtering capabilities streamlining advising workflows
-
-**Tech:** Java, JavaFX, Maven, MVC
+**Tech:** Python • Flask • SQLite • SentenceTransformers • RAG • OpenRouter
 
 ---
 
-## 🤝 Let's Connect!
+## [💳 Loan Default Prediction](https://github.com/kanishkay/Lending_Club_Loan_Default_Prediction)
 
-Always open to discussing projects, opportunities, or collaborating on interesting problems!
+Deep learning model trained on **395,000+ LendingClub records**.
 
+### Highlights
+
+- TensorFlow Neural Network
+- Feature Engineering
+- Imbalanced Classification
+- Precision & Recall Evaluation
+- Model Performance Analysis
+
+**Tech:** Python • TensorFlow • Keras • Scikit-Learn
+
+---
+
+## [📈 Credit Card Customer Segmentation](https://github.com/kanishkay/Credit_Card_Customer_Segmentation_KMeans)
+
+Applied PCA and K-Means clustering to identify customer behavior patterns.
+
+### Highlights
+
+- Principal Component Analysis
+- K-Means Clustering
+- Customer Analytics
+- Business Intelligence
+
+**Tech:** Python • PCA • K-Means • Scikit-Learn
+
+---
+
+## [🛡 NLP Spam Detection](https://github.com/kanishkay/Youtube_Spam_Collection_NLP)
+
+Natural Language Processing pipeline using TF-IDF and Naive Bayes.
+
+### Highlights
+
+- Text Preprocessing
+- TF-IDF Vectorization
+- Spam Classification
+- Linguistic Pattern Analysis
+
+**Tech:** Python • NLTK • TF-IDF • Naive Bayes • Scikit-Learn
+
+---
+
+# 💼 Experience
+
+### Co-Founder & AI Engineer — AGENTIS
+
+Co-developing an AI-powered platform that helps clinical coordinators match patients with relevant clinical trials.
+
+**Key Contributions**
+
+- Built modular multi-agent AI workflows
+- Integrated ClinicalTrials.gov REST APIs
+- Developed explainable AI recommendation pipelines
+- Leveraged IBM watsonx.ai for LLM-powered reasoning
+
+---
+
+# 🛠 Technical Skills
+
+### Languages
+
+Python • Java • C++ • SQL • R • HTML
+
+### AI & Machine Learning
+
+TensorFlow • PyTorch • Scikit-Learn • SentenceTransformers • NLTK • IBM watsonx.ai
+
+### Data Science
+
+Pandas • NumPy • Matplotlib • Seaborn
+
+### Backend & Databases
+
+Flask • REST APIs • SQLite • PostgreSQL • MySQL
+
+### DevOps & Tools
+
+Git • GitHub • Docker • Kubernetes • Ansible • Jupyter Notebook
+
+---
+
+# 🎓 Education
+
+### San José State University
+
+**Bachelor of Science in Data Science**
+
+📅 Expected Graduation: **May 2027**
+
+**GPA:** 3.72
+
+**Relevant Coursework**
+
+- Artificial Intelligence
+- Data Structures & Algorithms
+- Database Management Systems
+- Computer Systems
+- Linear Algebra
+- Discrete Mathematics
+- Object-Oriented Programming
+
+---
+
+# 🌟 Break Through Tech
+
+**Break Through Tech AI Fellow**  
+**Cornell Tech**
+
+Completed the **Machine Learning Foundations Program**, gaining hands-on experience in:
+
+- Machine Learning
+- Responsible AI
+- Professional Development
+- Team Collaboration
+- Industry-Sponsored AI Projects
+
+---
+
+# 🏅 Certifications
+
+- 🎓 **Machine Learning Foundations e-Certificate**
+  - Break Through Tech × Cornell Tech
+
+---
+
+# 🌱 Currently Learning
+
+- LLM Engineering
+- AI Agents
+- Retrieval-Augmented Generation
+- MLOps
+- Distributed Systems
+- Cloud AI
+
+---
+
+# 🤝 Professional Skills
+
+- Technical Communication
+- Cross-functional Collaboration
+- Problem Solving
+- Leadership
+- Agile Development
+- Continuous Learning
+
+---
+
+# 🎯 Career Interests
+
+I'm interested in opportunities involving:
+
+- Machine Learning Engineering
+- Artificial Intelligence
+- Large Language Models
+- Data Science
+- Backend Engineering
+- Applied AI Research
+
+---
+
+# 📈 GitHub Stats
+
+<!-- Replace with GitHub Readme Stats -->
+
+<!-- GitHub Stats Card -->
+
+<!-- Top Languages -->
+
+<!-- Contribution Streak -->
+
+---
+
+# 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, researchers, and engineers.
+
+Feel free to reach out about:
+
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🌐 Open Source
+- 🔬 Research
+- 💼 Internship & New Graduate Opportunities
+- 🤝 Collaboration
