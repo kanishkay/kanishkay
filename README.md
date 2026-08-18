@@ -8,7 +8,7 @@
 
 Interested in building practical machine learning and AI solutions to real-world problems.
 
-[💼 LinkedIn](https://linkedin.com/in/kanishkayadvv) • [📧 Email](mailto:11kanishkay@gmail.com) • [Instagram](https://instagram.com/kanishkay_)
+[💼 LinkedIn](https://linkedin.com/in/kanishkayadvv) • [📧 Email](mailto:11kanishkay@gmail.com) • [📸Instagram](https://instagram.com/kanishkay_)
 
 </div>
 
@@ -22,7 +22,7 @@ I'm a Data Science student at **San José State University** focused on **Machin
 
 ## 🚀 Featured Projects
 
-### 🚗 AutoPilot AI
+### 🚗 [AutoPilot AI](https://github.com/kanishkay/Autopilot-AI)
 
 Built a multi-agent automotive service advisor that coordinates vehicle diagnosis, live parts sourcing, and budget-aware repair planning.
 
