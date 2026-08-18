@@ -68,8 +68,5 @@ Used **K-Means and PCA** to identify four customer segments, reducing 17 feature
 
 ---
 
-## 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/kanishkayadvv) • [Email](mailto:11kanishkay@gmail.com)
 
 
