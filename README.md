@@ -8,7 +8,7 @@
 
 Interested in building practical machine learning and AI solutions to real-world problems.
 
-[LinkedIn](https://linkedin.com/in/kanishkayadvv) • [Email](mailto:11kanishkay@gmail.com)
+[💼 LinkedIn](https://linkedin.com/in/kanishkayadvv) • [📧 Email](mailto:11kanishkay@gmail.com) • [Instagram](https://instagram.com/kanishkay_)
 
 </div>
 
@@ -16,15 +16,21 @@ Interested in building practical machine learning and AI solutions to real-world
 
 ## 👨🏻‍💻 About Me
 
-I'm a Data Science student at **San José State University** with a focus on **Machine Learning and Artificial Intelligence**. I enjoy working with real-world data, developing ML models, and exploring how AI can be applied to practical problems.
+I'm a Data Science student at **San José State University** focused on **Machine Learning and Artificial Intelligence**. I enjoy building AI applications, working with real-world data, and exploring how machine learning and AI agents can solve practical problems.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🚗 AutoPilot AI
+
+Built a multi-agent automotive service advisor that coordinates vehicle diagnosis, live parts sourcing, and budget-aware repair planning.
+
+**Tech:** Next.js • React • TypeScript • NVIDIA Nemotron • Docker
+
 ### 🧠 [Acron — AI Repository Knowledge Base](https://github.com/kanishkay/acorn)
 
-Built a semantic code search system using **Retrieval-Augmented Generation (RAG)** to help users understand unfamiliar repositories.
+Built an AI code-intelligence platform that uses **Retrieval-Augmented Generation (RAG)** and semantic search to answer natural-language questions about unfamiliar codebases.
 
 **Tech:** Python • Flask • SQLite • SentenceTransformers • RAG
 
@@ -40,28 +46,30 @@ Used **K-Means and PCA** to identify four customer segments, reducing 17 feature
 
 **Tech:** Python • K-Means • PCA • Scikit-Learn
 
-### 🛡️ [YouTube Spam Detection](https://github.com/kanishkay/Youtube_Spam_Collection_NLP)
-
-Built an NLP classification pipeline to identify spam in YouTube comments using text preprocessing and **TF-IDF vectorization**.
-
-**Tech:** Python • NLTK • TF-IDF • Naive Bayes • Scikit-Learn
-
 ---
 
 ## 🛠 Technical Skills
 
-**Languages:** Python • Java • C++ • SQL • R
+**Languages:** Python • TypeScript • JavaScript • SQL • Java • C++ • R
 
-**Machine Learning:** TensorFlow • PyTorch • Scikit-Learn • SentenceTransformers • NLTK
+**AI/ML:** LangChain • PyTorch • TensorFlow • Scikit-Learn • SentenceTransformers • RAG • LLM Agents
 
-**Data Science:** Pandas • NumPy • Matplotlib • Seaborn
+**Frameworks:** React • Next.js • Express • Flask
 
-**Databases & Tools:** PostgreSQL • MySQL • SQLite • Git • Docker • Jupyter Notebook
+**Tools & Databases:** Git • GitHub • Docker • Kubernetes • Ansible • PostgreSQL • MySQL • SQLite
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkay&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/kanishkayadvv) • [Email](mailto:11kanishkay@gmail.com) • [📸 Instagram](https://instagram.com/kanishkay_)
+[LinkedIn](https://linkedin.com/in/kanishkayadvv) • [Email](mailto:11kanishkay@gmail.com)
 
 
